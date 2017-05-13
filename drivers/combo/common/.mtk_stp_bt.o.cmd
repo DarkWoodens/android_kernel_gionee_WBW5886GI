@@ -1,0 +1,1 @@
+cmd_../mediatek/source/kernel/drivers/combo/common/mtk_stp_bt.o := arm-linux-androideabi-ld.bfd -EL    -r -o ../mediatek/source/kernel/drivers/combo/common/mtk_stp_bt.o ../mediatek/source/kernel/drivers/combo/common/linux/stp_chrdev_bt.o 

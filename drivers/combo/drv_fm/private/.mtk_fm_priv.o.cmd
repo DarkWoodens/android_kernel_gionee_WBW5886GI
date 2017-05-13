@@ -1,0 +1,1 @@
+cmd_../mediatek/source/kernel/drivers/combo/drv_fm/private/mtk_fm_priv.o := arm-linux-androideabi-ld.bfd -EL    -r -o ../mediatek/source/kernel/drivers/combo/drv_fm/private/mtk_fm_priv.o ../mediatek/source/kernel/drivers/combo/drv_fm/private/mtk_fm.o 

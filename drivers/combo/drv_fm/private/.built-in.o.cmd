@@ -1,0 +1,1 @@
+cmd_../mediatek/source/kernel/drivers/combo/drv_fm/private/built-in.o :=  rm -f ../mediatek/source/kernel/drivers/combo/drv_fm/private/built-in.o; arm-linux-androideabi-ar rcsD ../mediatek/source/kernel/drivers/combo/drv_fm/private/built-in.o

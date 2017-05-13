@@ -1,0 +1,36 @@
+==================
+Build Notes
+==================
+1.版本目的:
+test p5 audio
+2.修改的重大问题点:
+merge p5 patch
+3.测试重点:
+audio
+4.应用数据库是否改变:
+no
+
+==================
+Release Location
+==================
+FTP://18.8.8.2/software_release/CBW5886/CBW5886A_T0105.zip
+
+==================
+Software Version Description
+==================
+CBW588611_A:
+MT6589 1.2GHz 四核 /WCDMA900/2100 MHz /GSM 850/900/1800/1900MHZ/eMMC 16GB+DDR2 1GB / MT6628四合一/4.8“  HD AMOLED/前置OV5648/后置SONY IMX111/G-SENOR/P-SENSOR/L-SENSOR
+
+==================
+CR List
+==================
+[Repository Url]: http://192.168.110.97/svn/modem_mtk_jb_6589_mp/trunk
+CR00793646	Resolved	GBW195	yanls	[6589_mp]上传MT6589MP版本Modem_patch5	svn revision(80,81,89,82)
+Tag url: http://192.168.110.97/svn/modem_mtk_jb_6589_mp/tags/TAG_CBW5886_T0105
+Previous tag: TAG_CBW5886_T0104
+Code difference: svn diff -r 92:75 http://192.168.110.97/svn/modem_mtk_jb_6589_mp/trunk
+
+[Repository Url]: http://192.168.110.97/svn/packages_qc_modem/trunk
+Tag url: http://192.168.110.97/svn/packages_qc_modem/tags/TAG_CBW5886_T0105
+Previous tag: TAG_CBW5886_T0104
+Code difference: svn diff -r 1:945 http://192.168.110.97/svn/packages_qc_modem/trunk
